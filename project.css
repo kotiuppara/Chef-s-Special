@@ -1,0 +1,167 @@
+/*profile.php*/
+.tab {
+	font-size: 20px;
+}
+.tab th{
+	padding-right:20px ;
+	font-family:TimesRoman;
+	color:fuchsia;
+}
+.tab1 {
+	font-size: 20px;
+}
+.tab1 th{
+	padding-left:10px ;
+	font-family:Roboto;
+	color:orangered;
+}
+.image{
+	border-radius: 50%;;
+	border: 8px solid #DCDCDC;
+	box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2) ,0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 300px;
+	width: 300px;
+	}
+.image:hover{
+  		box-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 15px darkblue;
+  	}
+.button1{
+	background-color: peru;
+	color: whitesmoke;
+	border-radius: 20px;
+	padding: 6px 12px;
+}
+.button1:hover{
+	box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2) ,0 6px 20px 0 olivedrab;
+}
+.set{
+	border: 3px solid black;
+	border-radius: 25px;
+	border-style: outset;
+	padding: 20px;
+	padding-left: 25px;
+}
+.bg1{
+	background-image: url('img/rm222batch2-mind-03.jpg');
+	background-attachment: fixed;
+}
+.bg2{
+	background-image: url('img/Hawaii-Beach-Wallpaper-HD.jpg_320x240');
+	background-attachment: fixed;
+	height: 100vh;
+	background-size: cover;
+}
+marquee{
+	font-size: 25px;
+	font-family: fantasy;
+	display: flex;
+	justify-content: center;
+	color: chocolate;
+	background-color: white;
+}
+/*veg&nveg */
+.box1{
+	width: 40%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.box2{
+	width: 60%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.box3{
+	width: 70%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.box4{
+	width: 30%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.con3{
+	border-left: 2px solid black;
+	width: 80%;
+	height: 552px;
+	display: flex;
+	justify-content: center;
+}
+.con1{
+	display: flex;
+	justify-content: center;
+	height: 552px;
+}
+.con2{
+	width: 20%;
+	background-color: white;
+	height: 552px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.middle{
+	display: flex;
+	font-size: 100px;
+	font-family: cursive;
+	text-align: center;
+	align-content: center;
+	padding-top: 70px;
+}
+.h{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.intro{
+	padding: 20px;
+	color: chocolate;
+	display: flex;
+	font-size: 30px;
+	font-family: fantasy;
+	justify-content: center;
+}
+.heading {
+	color:  red;
+	text-decoration: underline;
+	font-family: "Roboto";
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+.i-heading {
+	color:  blue;
+	font-family: ;
+	font-style: ;
+	font-weight: bold;
+
+}
+
+.pro-heading {
+
+	color:  blue;
+	font-family: ;
+	font-style: ;
+	font-weight: ;
+}
+.c{
+	font-display: block;
+}
+.c:hover{
+	background-color:rgba(150, 230, 255,0.7);
+}
+.c img:hover{
+	box-shadow: 3px 4px 4px black;
+	margin-bottom: 10px;
+}
+.aimage{
+	border-radius: 50%;;
+	border: 8px solid #DCDCDC;
+	box-shadow:0 1px 2px 0 greenyellow;
+	height: 200px;
+	width: 200px;	
+}
+.mid{
+    display:flex;
+	justify-content: center;
+	
+}
